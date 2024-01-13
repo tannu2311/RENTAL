@@ -1,0 +1,11 @@
+django-rest-passwordreset
+django-filter
+django-cors-headers
+psycopg2
+python-decouple
+twilio
+django-crispy-forms
+djangorestframework
+django-rest-knox
+Pillow
+
